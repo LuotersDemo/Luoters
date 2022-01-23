@@ -3,12 +3,12 @@ package firstSample;
 /**
  * @author Luoters
  * @since 2022-01-22
+ *
  */
 public class HelloWorld {
 
-    public void isHelloWorld(){
+    public void isHelloWorld(String helloW){
         System.out.println("--------");
-        String helloW = "hello world!";
         System.out.println(helloW);
 
         String helloW1 = helloW.substring(0, 7);
