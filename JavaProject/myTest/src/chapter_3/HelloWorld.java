@@ -1,4 +1,4 @@
-package firstSample;
+package chapter_3;
 
 /**
  * @author Luoters
